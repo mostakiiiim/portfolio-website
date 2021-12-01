@@ -21,7 +21,7 @@ const pj = [
     description: "Travel agency website where users can book their favorite travel destination and admin can manage all orders and update them. Site created using ReactJs for Frontend and NodeJs for backend",
     image: '/images/2.png',
     tags: ['React', 'Mongo', 'Express', 'React', 'Node'],
-    source: '',
+    source: 'https://github.com/mostakiiiim/my-tour-client',
     visit: 'https://my-tour-frontend.web.app/home',
     id: 1,
   },
@@ -67,7 +67,7 @@ const Projects = () => (
         </div>
         <UtilityList>
           <ExternalLinks href='https://niche-website-cb3be.web.app/home'>Visit</ExternalLinks>
-          <ExternalLinks href='https://niche-website-cb3be.web.app/home'>Source</ExternalLinks>
+          <ExternalLinks href='https://github.com/mostakiiiim/niche-website-client'>Source</ExternalLinks>
           <ExternalLinks href='/project1'>Details</ExternalLinks>
         </UtilityList>
       </BlogCard>
@@ -86,8 +86,8 @@ https://i.ibb.co/hXQhPDf/2.png
 
         </div>
         <UtilityList>
-          <ExternalLinks href='https://niche-website-cb3be.web.app/home'>Visit</ExternalLinks>
-          <ExternalLinks href='https://niche-website-cb3be.web.app/home'>Source</ExternalLinks>
+          <ExternalLinks href='https://my-tour-frontend.web.app/home'>Visit</ExternalLinks>
+          <ExternalLinks href='https://github.com/mostakiiiim/my-tour-client'>Source</ExternalLinks>
           <ExternalLinks href='/project4'>details</ExternalLinks>
         </UtilityList>
       </BlogCard>
@@ -100,8 +100,8 @@ https://i.ibb.co/hXQhPDf/2.png
         <CardInfo className="card-info">Hospital landing page with services</CardInfo>
 
         <UtilityList>
-          <ExternalLinks href='https://niche-website-cb3be.web.app/home'>Visit</ExternalLinks>
-          <ExternalLinks href='https://niche-website-cb3be.web.app/home'>Source</ExternalLinks>
+          <ExternalLinks href='https://my-hospital-cf58c.web.app/home'>Visit</ExternalLinks>
+          <ExternalLinks href='https://github.com/mostakiiiim/my-hospital'>Source</ExternalLinks>
           <ExternalLinks href='/project3'>details</ExternalLinks>
 
         </UtilityList>
@@ -118,8 +118,8 @@ https://i.ibb.co/hXQhPDf/2.png
 
         </div>
         <UtilityList>
-          <ExternalLinks href='https://niche-website-cb3be.web.app/home'>Visit</ExternalLinks>
-          <ExternalLinks href='https://niche-website-cb3be.web.app/home'>Source</ExternalLinks>
+          <ExternalLinks href='https://app.netlify.com/sites/elated-bose-5539dc/overview'>Visit</ExternalLinks>
+          <ExternalLinks href='https://github.com/mostakiiiim/panda-commerece'>Source</ExternalLinks>
           <ExternalLinks href='/project2'>details</ExternalLinks>
         </UtilityList>
       </BlogCard>
